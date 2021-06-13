@@ -1,0 +1,10 @@
+.logo {
+    transition-property: opacity;
+    transition-duration: .5s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+}
+
+.logo:hover {
+    opacity: .5;
+}
